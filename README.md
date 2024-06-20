@@ -1,5 +1,5 @@
 
-I am currently a *<font color="#FF6600">post-doctoral research associate at Vrije Universiteit Brussels</font>*. 
+I am currently a *<font color="#FF6600">post-doctoral research associate at KU Leuven</font>*. 
 I have completed my Ph.D. under the supervision of [Prof. dr. Tias Guns](https://people.cs.kuleuven.be/~tias.guns/). My research falls at the confluence of machine learning (ML) and combinatorial optimization problem (COP). 
 
 In my PhD, I have studied *<font color="#FF6600">Decision-focused learning</font>*. In decision-focused learning, ML prediction is followed by COP for decision-making. The goal is to train the ML model, very often a neural network model, directly considering the error after the COP. The primary challenge in the implementation decision-focused learning is how to embed the COP into the ML training loop. 
